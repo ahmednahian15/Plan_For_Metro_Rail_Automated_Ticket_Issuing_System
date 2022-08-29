@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 4605
+ Passenger Name : Rizvee
+ Phone Number    : 01345720164
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Gendaria railway station
+  Train                     : Parabat Express
+  N. of Passenger : 4 person 
+Total distance :		35.76 km
+
+ ===================================
+  Amount :		286.08 Tk
+ ===================================
+
+ *******************************************************

@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 8352
+ Passenger Name : Zanib
+ Phone Number    : 01320148950
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Gendaria railway station
+  Train                     : Ekota Express
+  N. of Passenger : 2 person 
+Total distance :		35.76 km
+
+ ===================================
+  Amount :		143.04 Tk
+ ===================================
+
+ *******************************************************

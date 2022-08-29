@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 4533
+ Passenger Name : Nahian
+ Phone Number    : 03149601482
+ Date                    : 8/27/22
+ *******************************************************
+
+  From                 : Gendaria railway station
+  To                     : Cantonment railway station
+  Train                     : Parabat Express
+  N. of Passenger : 4 person 
+Total distance :		35.76 km
+
+ ===================================
+  Amount :		286.08 Tk
+ ===================================
+
+ *******************************************************
